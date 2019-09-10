@@ -112,9 +112,9 @@
 '459811':
   bin: '459811'
   brand: VISA
-  type: ''
-  category: ''
-  issuer: ''
+  type: 'DEBIT'
+  category: 'BUSINESS'
+  issuer: 'ING BANK SLASKI SA'
   country:
     alpha_2: PL
     alpha_3: POL
